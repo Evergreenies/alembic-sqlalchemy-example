@@ -1,0 +1,7 @@
+alembic
+bandit
+black
+flake8
+make
+psycopg2
+sqlalchemy
